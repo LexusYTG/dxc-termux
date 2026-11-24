@@ -1,3 +1,8 @@
+FOR TERMUX ❤️ 
+THIS IS A little ADAPTATION FOR TERMUX OF DXC
+
+
+
 # DirectX Shader Compiler
 
 The DirectX Shader Compiler project includes a compiler and related tools used to compile High-Level Shader Language (HLSL) programs into DirectX Intermediate Language (DXIL) for DirectX and the Standard Portable Intermediate Representation (SPIR-V) for Vulkan.
@@ -112,3 +117,7 @@ See [LICENSE.txt](LICENSE.TXT) and [ThirdPartyNotices.txt](ThirdPartyNotices.txt
 ## Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+
+❤️ termux
